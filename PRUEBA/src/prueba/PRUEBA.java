@@ -15,7 +15,8 @@ public class PRUEBA {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+      vantana v = new vantana();
+      v.setVisible(true);
     }
     
 }
